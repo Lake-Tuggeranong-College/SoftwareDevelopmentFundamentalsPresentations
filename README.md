@@ -9,3 +9,5 @@ Each presentation covers (or will cover) the following languages:
 - GDScript
 - PHP
 - Python
+
+These presetnations are written in Markdown to integrate with Marp, which converts the Markdown into Presentations. They still render to an acceptable standard through Github, however.
